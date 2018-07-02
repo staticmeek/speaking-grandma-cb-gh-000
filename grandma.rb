@@ -7,6 +7,8 @@ if response == "I LOVE YOU GRANDMA"
   puts "I LOVE YOU TOO PUMPKIN!"
 # If you shout, she can hear you (or at least she thinks so)
 # and yells back
+else
+  "HUH?! SPEAK UP, SONNY!"
 
 # NO, NOT SINCE 1938!
 
