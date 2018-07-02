@@ -5,6 +5,4 @@ def speak_to_grandma (response)
 # unless you shout it (type in all capitals).
 if response == response.upcase && response == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-else
-end
 end
