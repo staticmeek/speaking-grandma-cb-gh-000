@@ -5,13 +5,6 @@ def speak_to_grandma (response)
 # unless you shout it (type in all capitals).
 if response == response.upcase && response == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-# If you shout, she can hear you (or at least she thinks so)
-# and yells back
-elsif response == response.downcase
-  "HUH?! SPEAK UP, SONNY!"
-# NO, NOT SINCE 1938!
 else
-# However if you say 'I LOVE YOU GRANDMA!', she should respond with
-# 'I LOVE YOU TOO PUMPKIN!'
 end
 end
