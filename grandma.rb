@@ -4,6 +4,7 @@ def speak_to_grandma (response)
     puts "I LOVE YOU TOO PUMPKIN!"
   elsif response == response.downcase
     puts "HUH! SPEAK UP, SONNY!"
+  else
 
   end
 end
